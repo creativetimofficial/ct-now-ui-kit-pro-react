@@ -1,6 +1,42 @@
 # Change Log
 
-## [1.4.0] 2019-06-15
+## [1.5.0] 2021-05-19
+### Bug fixing
+### Major style changes
+### Deleted components
+### Added components
+### Deleted dependencies
+- `react-google-maps` (no longer maintained, so we'll use simple Google Maps API)
+- `@types/googlemaps`
+- `@types/markerclustererplus`
+- `@types/react`
+### Added dependencies
+- `@babel/core@7.14.3` (to stop warnings on install)
+### Updated dependencies
+```
+moment                 2.26.0   →   2.29.1
+node-sass              4.14.1   →    6.0.0
+nouislider             14.5.0   →   15.1.0
+react                 16.13.1   →   17.0.2
+react-datetime         2.16.3   →    3.0.4
+react-dom             16.13.1   →   17.0.2
+react-scripts           3.4.1   →    4.0.3
+react-select            3.1.0   →    4.3.1
+reactstrap              8.4.1   →    8.9.0
+gulp-append-prepend     1.0.8   →    1.0.9
+typescript              3.9.5   →    4.2.4
+```
+### Warning
+_While in development some of the plugins that were used for this product will throw some warnings - note, this only happens in development, the UI or the functionality of the product is not affected, also, if the issues will persist in React 17, we'll drop usage of those plugins, and replace them with other ones._
+_Warnings might appear while doing an npm install - they do not affect the UI or the functionality of the product, and they appear because of NodeJS and not from the product itself._
+```
+npm WARN react-datetime@3.0.4 requires a peer of react@^16.5.0 but none is installed. You must install peer dependencies yourself.
+npm WARN react-tagsinput@3.19.0 requires a peer of react@^16.0.0 || ^15.0.0 || ^0.14.0 but none is installed. You must install peer dependencies yourself.
+```
+_In our next update we'll replace this plugin with something else to stop these._
+_You will also have the following message: found 80 vulnerabilities (1 low, 79 moderate). This comes from react-scripts, and will be fixed in the next version. NOTE: the product works as expected with these vulnerabilities._
+
+## [1.4.0] 2020-06-15
 ### Bug fixing
 - Run prettier on all files, so there might be changes due to this
 - https://github.com/creativetimofficial/ct-now-ui-kit-pro-react/issues/2 (added warnings on the documentation about this issue - unfortunately, we need to keep our own homepage prop inside the package.json for copyright issues)
