@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.5.2] 2023-05-25
+
+- Update dependencies
+- Fix installation issue
+
+## [1.5.1] 2021-07-26
+
+- Update the dependencies
+- Migration to React 18
+- Migration to sass from node-sass
+
 ## [1.5.0] 2021-05-19
 ### Bug fixing
 ### Major style changes
