@@ -1,7 +1,6 @@
 # [Now UI Kit PRO React](https://demos.creative-tim.com/now-ui-kit-pro-react/#/presentation?ref=nukp-react-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Now%20UI%20Kit%20PRO%20React%20by%20Creative%20Tim%20https%3A//demos.creative-tim.com/now-ui-kit-pro-react/#/presentation%20via%20%40CreativeTim)
 
-
-![version](https://img.shields.io/badge/version-1.5.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-now-ui-kit-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-kit-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-now-ui-kit-pro-react.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-now-ui-kit-pro-react/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.5.2-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-now-ui-kit-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-kit-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-now-ui-kit-pro-react.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-now-ui-kit-pro-react/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Thumbnail](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro-react/opt_nukp_react_thumbnail.jpg)
 
@@ -30,6 +29,7 @@ Now UI Kit PRO is coming with 34 pre-made sections and practically infinite poss
 **Example Pages**
 
 We wanted to fully display the power of this kit, so the kit comes packed with examples showing you how to use the components. Inside the product you will find:
+
 - [About us Page](https://demos.creative-tim.com/now-ui-kit-pro-react/#/about-us?ref=nukp-react-readme)
 - [Blog Post Page](https://demos.creative-tim.com/now-ui-kit-pro-react/#/blog-post?ref=nukp-react-readme)
 - [Blog Posts Page](https://demos.creative-tim.com/now-ui-kit-pro-react/#/blog-posts?ref=nukp-react-readme)
@@ -52,19 +52,18 @@ Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Dashboards](#dashboards)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Dashboards](#dashboards)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
 
 ## Versions
 
@@ -73,10 +72,9 @@ Let us know your thoughts below. And good luck with development!
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-kit-pro?ref=nukp-react-readme)
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro-react?ref=nukp-react-readme)
 
-
-| HTML | Angular | Vue | React |
-| --- | --- | --- | --- |
-| [![Now UI Kit Pro HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro/opt_nukp_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro?ref=nukp-react-readme) | [![Now UI Kit Pro Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro-angular/opt_nukp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro-angular?ref=nukp-react-readme) | [![Vue Now UI Kit Pro](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-now-ui-kit-pro/vue-now-ui-kit-pro.jpg)](https://www.creative-tim.com/product/vue-now-ui-kit-pro?ref=nukp-react-readme) | [![Now UI Kit Pro React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro-react/opt_nukp_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro-react?ref=nukp-react-readme)
+| HTML                                                                                                                                                                                                                  | Angular                                                                                                                                                                                                                                          | Vue                                                                                                                                                                                                                          | React                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Now UI Kit Pro HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro/opt_nukp_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro?ref=nukp-react-readme) | [![Now UI Kit Pro Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro-angular/opt_nukp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro-angular?ref=nukp-react-readme) | [![Vue Now UI Kit Pro](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-now-ui-kit-pro/vue-now-ui-kit-pro.jpg)](https://www.creative-tim.com/product/vue-now-ui-kit-pro?ref=nukp-react-readme) | [![Now UI Kit Pro React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro-react/opt_nukp_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro-react?ref=nukp-react-readme) |
 
 ## Demo
 
@@ -95,17 +93,15 @@ Let us know your thoughts below. And good luck with development!
 - [Profile Page](https://demos.creative-tim.com/now-ui-kit-pro-react/#/profile-page?ref=nukp-react-readme)
 - [Signup Page](https://demos.creative-tim.com/now-ui-kit-pro-react/#/sign-up?ref=nukp-react-readme)
 
-
 ## Quick start
 
 Quick start options:
 
 - Buy from [Creative Tim](https://www.creative-tim.com/product/now-ui-kit-pro-react?ref=nukp-react-readme)
 
-
 ## Documentation
-The documentation for the Now UI Kit PRO React is hosted at our [website](https://demos.creative-tim.com/now-ui-kit-pro-react/#/documentation/introduction?ref=nukp-react-readme).
 
+The documentation for the Now UI Kit PRO React is hosted at our [website](https://demos.creative-tim.com/now-ui-kit-pro-react/#/documentation/introduction?ref=nukp-react-readme).
 
 ## File Structure
 
@@ -244,8 +240,8 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/chrome-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
-
 ## Resources
+
 - [Live Preview](https://demos.creative-tim.com/now-ui-kit-pro-react?ref=nukp-react-readme)
 - Buy Page: https://www.creative-tim.com/product/now-ui-kit-pro-react?ref=nukp-react-readme
 - Documentation is [here](https://demos.creative-tim.com/now-ui-kit-pro-react/#/documentation/introduction?ref=nukp-react-readme)
@@ -256,11 +252,12 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Dashboards
 
-| HTML | Angular | Vue | React |
-| --- | --- | ---  | ---  |
-| [![Now UI Dashboard PRO HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-pro/now-ui-dashboard-pro.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro?ref=nukp-react-readme) | [![Now UI Dashboard PRO Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-pro-angular/now-ui-dashboard-pro-angular.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro-angular?ref=nukp-react-readme) | [![Vue Now UI Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-now-ui-dashboard-pro/vue-now-ui-dashboard-pro.jpg)](https://www.creative-tim.com/product/vue-now-ui-dashboard-pro?ref=nukp-react-readme) | [![ Now UI Dashboard React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-pro-react/now-ui-dashboard-pro-react.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro-react?ref=nukp-react-readme)
+| HTML                                                                                                                                                                                                                                      | Angular                                                                                                                                                                                                                                                              | Vue                                                                                                                                                                                                                                                  | React                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Now UI Dashboard PRO HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-pro/now-ui-dashboard-pro.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro?ref=nukp-react-readme) | [![Now UI Dashboard PRO Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-pro-angular/now-ui-dashboard-pro-angular.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro-angular?ref=nukp-react-readme) | [![Vue Now UI Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-now-ui-dashboard-pro/vue-now-ui-dashboard-pro.jpg)](https://www.creative-tim.com/product/vue-now-ui-dashboard-pro?ref=nukp-react-readme) | [![ Now UI Dashboard React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-pro-react/now-ui-dashboard-pro-react.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro-react?ref=nukp-react-readme) |
 
 ## Reporting Issues
+
 We use GitHub Issues as the official bug tracker for the Now UI Kit PRO React. Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Now UI Kit PRO React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=nukp-react-readme).
@@ -273,7 +270,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2021 Creative Tim (https://www.creative-tim.com?ref=nukp-react-readme)
+- Copyright 2023 Creative Tim (https://www.creative-tim.com?ref=nukp-react-readme)
 - Creative Tim [license](https://www.creative-tim.com/license?ref=nukp-react-readme)
 
 ## Useful Links
